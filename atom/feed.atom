@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Plants</title>
+        <description>This page talk about different types of plants</description>
+        <link>https://a20alejandroro.github.io/projectRSSide/</link>
+        <pubDate>Wed, 23 Nov 2022 09:30:00 GMT</pubDate>
+        <managingEditor>a20alejandroro@iessanclemente.net</managingEditor>
+        <item>
+            <title>Plants</title>
+            <link>https://a20alejandroro.github.io/projectRSSide/eclipse.html</link>
+            <pubDate>Wed, 23 Nov 2022 09:30:00 GMT</pubDate>
+            <description>Types of Plants</description>
+        </item>
+    </channel>
+</rss>
